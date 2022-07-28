@@ -11,6 +11,7 @@
 		8309FE15288C24B100611AAB /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8309FE14288C24B100611AAB /* ContentView.swift */; };
 		8309FE17288C24B300611AAB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8309FE16288C24B300611AAB /* Assets.xcassets */; };
 		8309FE1A288C24B300611AAB /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8309FE19288C24B300611AAB /* Preview Assets.xcassets */; };
+		8309FE30288D774200611AAB /* PhoneGridLayoutView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8309FE2F288D774200611AAB /* PhoneGridLayoutView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		8309FE14288C24B100611AAB /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		8309FE16288C24B300611AAB /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		8309FE19288C24B300611AAB /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		8309FE2F288D774200611AAB /* PhoneGridLayoutView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PhoneGridLayoutView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				8309FE12288C24B100611AAB /* ImagedownloadTaskGroupApp.swift */,
 				8309FE14288C24B100611AAB /* ContentView.swift */,
+				8309FE2F288D774200611AAB /* PhoneGridLayoutView.swift */,
 				8309FE16288C24B300611AAB /* Assets.xcassets */,
 				8309FE18288C24B300611AAB /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8309FE30288D774200611AAB /* PhoneGridLayoutView.swift in Sources */,
 				8309FE15288C24B100611AAB /* ContentView.swift in Sources */,
 				8309FE13288C24B100611AAB /* ImagedownloadTaskGroupApp.swift in Sources */,
 			);
